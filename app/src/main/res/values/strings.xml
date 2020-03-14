@@ -1,0 +1,37 @@
+<resources>
+    //App name
+    <string name="app_name">Stores</string>
+    <string name="add_name">Add Store</string>
+    <string name="edit_name">Edit Store</string>
+    <string name="detail_name">Detail Store</string>
+    <string name="app_name_product">Product</string>
+    <string name="add_name_product">Add Product</string>
+    <string name="edit_name_product">Edit Product</string>
+    <string name="detail_name_product">Detail Product</string>
+    //message
+    <string name="loading_message">Please wait...</string>
+    <string name="product_created">Product was successfully created</string>
+    <string name="product_updated">Product was successfully updated</string>
+    <string name="product_deleted">Product was successfully deleted</string>
+    <string name="confirm_delete">Are you sure to delete this product?</string>
+    <string name="message_canceled">Task Cancelled</string>
+    //Button text
+    <string name="action_yes">Yes</string>
+    <string name="show_products_button">Show Products</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+    //toolbar name
+    <string name="store_name">Store Name</string>
+    <string name="store_tagline">TagLine</string>
+    <string name="store_decs">Description</string>
+    <string name="store_address">Address</string>
+    <string name="store_zipcode">ZipCode</string>
+    <string name="store_city">City</string>
+    <string name="store_state">State</string>
+    <string name="store_country">Country</string>
+    <string name="store_phone">Phone</string>
+    //Permission
+    <string name="permission_confirm">This application need your permission to access photo gallery.</string>
+    <string name="canceled_task">CANCALED</string>
+    <string name="add_button">+</string>
+</resources>
